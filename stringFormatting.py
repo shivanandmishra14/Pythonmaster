@@ -11,3 +11,4 @@ for i in range(1,13):
     print()
     print("pi is appx {0:12}".format(22/7))
     print("pi is appx {0:12f}".format(22/7))
+    
