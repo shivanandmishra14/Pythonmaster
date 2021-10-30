@@ -5,6 +5,7 @@ guess = int(input())
 if guess < answer:
     print("please guess higher ")
 
+
 elif guess > answer:
     print("please guess lower")
 
